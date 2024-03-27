@@ -17,7 +17,7 @@ Before running the application, ensure you have Python installed on your system.
 
 ```bash
 git clone https://github.com/yourusername/job-finder.git
-cd Link Loot
+cd LinkLoot
 ```
 
 2. **Install dependencies:**
