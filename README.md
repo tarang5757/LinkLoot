@@ -16,7 +16,7 @@ Before running the application, ensure you have Python installed on your system.
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/job-finder.git
+git clone https://github.com/yourusername/LinkLoot.git
 cd LinkLoot
 ```
 
