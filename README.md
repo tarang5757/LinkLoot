@@ -44,6 +44,10 @@ python gui.py
 2. **Enter Job Criteria**: In the provided fields, enter the job title, location, and the name of the Excel file where you want to save the search results.
 3. **Start Search**: Click the "search" button to begin the job scraping process. The application will notify you once the scraping starts and again when it completes, indicating where the results are saved.
 
+## Demo Of The Application
+[![Alt text](https://i3.ytimg.com/vi/tJ_P_j5EKw4/maxresdefault.jpg)](https://www.youtube.com/watch?v=tJ_P_j5EKw4&ab_channel=TarangPatel "Hover text")
+ 
+
 ## Contributing
 
 Contributions to Link Loot are welcome! Please feel free to fork the repository, make changes, and submit pull requests. For major changes or new features, please open an issue first to discuss what you would like to change.
