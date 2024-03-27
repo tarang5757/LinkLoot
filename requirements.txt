@@ -1,0 +1,4 @@
+customtkinter
+requests
+beautifulsoup4
+xlsxwriter
